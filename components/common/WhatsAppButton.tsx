@@ -3,7 +3,7 @@
 import { MessageCircle } from "lucide-react";
 import { motion } from "framer-motion";
 
-const phone = "919155584212";
+const phone = "918298477992";
 
 const message = encodeURIComponent(`Hi Velquora Technologies,
 
