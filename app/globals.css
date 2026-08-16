@@ -24,3 +24,11 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.marquee-track:hover{
+    animation-play-state: paused;
+}
+
+html {
+  scroll-behavior: smooth;
+}
